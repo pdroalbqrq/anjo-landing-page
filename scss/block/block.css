@@ -1,0 +1,32 @@
+.header {
+  width: 100%;
+  text-align: center;
+}
+
+.section-anjo {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.right-items {
+  width: 90%;
+  max-width: 400px;
+}
+
+.input {
+  margin: 10px 0px;
+  color: white;
+}
+.input label {
+  font-size: 12px;
+}
+
+.input-button__center {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+/*# sourceMappingURL=block.css.map */
